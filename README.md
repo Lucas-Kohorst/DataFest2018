@@ -16,4 +16,4 @@ We broke the problem down to the following bullet points
 
 Then we gathered the data and using two Random Forest Regression models with features of SleepHours, Nutrition, Soreness(Day of the Game), SessionType, Duration and targeting the Load of a player we produced some cool results (Note not all features are filled in because we did not have enough time to train the model, but you could). 
 
-<img href="results.png">
+<img src="results.png">
